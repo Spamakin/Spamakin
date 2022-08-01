@@ -12,7 +12,7 @@ I am a student studying mathematics @ UIUC. Alot of my time is dedicated to lear
     * [arXiv](https://arxiv.org/pdf/2206.00597.pdf)
     * [Source Code](https://github.com/leadcatlab/MWLP-Storm-Repair)
     * To appear at [IEEE ISC2](https://attend.ieee.org/isc2-2022/)
-* Founder and Chair of the [SIGma](https://github.com/SIGma-UIUC): the SIG for Math and Algorithms @ UIUC
+* Founder and Chair of [SIGma](https://github.com/SIGma-UIUC): the SIG for Math and Algorithms @ UIUC
 * Admin of the [SIGPwny](https://sigpwny.com/): The SIG for Cybersecurity @ UIUC
   * I've hosted some [cryptography meetings](https://sigpwny.com/presentation/)
   * I've written some [CTF challenges](https://sigpwny.com/event/)
