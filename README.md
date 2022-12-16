@@ -12,6 +12,8 @@ Hello! My name is Anakin and I'm a student studying mathematics @ UIUC. Alot of 
     * [arXiv](https://arxiv.org/pdf/2206.00597.pdf)
     * [Source Code](https://github.com/leadcatlab/MWLP-Storm-Repair)
     * To appear at [IEEE ISC2 2022](https://attend.ieee.org/isc2-2022/)
+  * Erdős Number = 5 (Me -> Melkior Ornik -> Tomáš Brázdil -> Christel Baier -> Florian Luca -> Paul Erdős)
+  
 * Founder and Chair of [SIGma](https://github.com/SIGma-UIUC): the SIG for Math and Algorithms @ UIUC
 * Admin of [SIGPwny](https://sigpwny.com/): The SIG for Cybersecurity @ UIUC
   * I've hosted some [cryptography meetings](https://sigpwny.com/presentation/)
