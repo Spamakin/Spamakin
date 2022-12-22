@@ -5,8 +5,6 @@
 Hello! My name is Anakin and I'm a student studying mathematics @ UIUC. Alot of my time is dedicated to learning about cool things such as abstract algebra, algorithms, and cryptography. My interests in these three things really stem from just exploring how much information can be extracted from a minimal set of constraints and requirements. When I'm not working on those things, I love spending time talking about coffee and Formula 1 (please bother me about these things). 
 
 #### Current
-
-* Software Engineering Intern @ [CME Group](https://www.cmegroup.com/)
 * Research @ the [Learning, Decision, Control, Autonomy Lab](https://mornik.web.illinois.edu/research/group/)
   * "Post-Disaster Repair Crew Assignment Optimization Using Minimum Latency" by Anakin Dey & Melkior Ornik
     * [arXiv](https://arxiv.org/pdf/2206.00597.pdf)
@@ -18,9 +16,11 @@ Hello! My name is Anakin and I'm a student studying mathematics @ UIUC. Alot of 
 * Admin of [SIGPwny](https://sigpwny.com/): The SIG for Cybersecurity @ UIUC
   * I've hosted some [cryptography meetings](https://sigpwny.com/presentation/)
   * I've written some [CTF challenges](https://sigpwny.com/event/)
-* Course Assistant @ [CS 173](https://courses.grainger.illinois.edu/cs173/fa2021/ALL-lectures/)
-* Course Assistant @ [CS 374](https://courses.engr.illinois.edu/cs374/sp2022/A/)
+* Course Assistant @ [CS 173](https://courses.grainger.illinois.edu/cs173/fa2021/ALL-lectures/) (FA22 - ???)
+* Course Assistant @ [CS 475](https://courses.grainger.illinois.edu/CS475/sp2022/ALL-lectures/) (SP23)
 
 #### Former
+* Software Engineering Intern @ [CME Group](https://www.cmegroup.com/)
 * Software Engineering Intern @ [Site IQ](http://www.site-iq.com/)
-* Course Assistant @ [CS 124](https://www.cs124.org/) (back when it was called CS 125)
+* Course Assistant @ [CS 374](https://courses.engr.illinois.edu/cs374/sp2022/A/) (SP22 - FA22)
+* Course Assistant @ [CS 124](https://www.cs124.org/) (back when it was called CS 125) (SP21)
