@@ -23,4 +23,4 @@ Hello! My name is Anakin and I'm a student studying mathematics @ UIUC. Alot of 
 * Software Engineering Intern @ [CME Group](https://www.cmegroup.com/)
 * Software Engineering Intern @ [Site IQ](http://www.site-iq.com/)
 * Course Assistant @ [CS 374](https://courses.engr.illinois.edu/cs374/sp2022/A/) (SP22 - FA22)
-* Course Assistant @ [CS 124](https://www.cs124.org/) (back when it was called CS 125) (SP21)
+* Course Assistant @ [CS 124](https://www.cs124.org/) back when it was called CS 125 (SP21)
