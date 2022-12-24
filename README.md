@@ -1,4 +1,4 @@
-## `cd ~`
+## `>$ cd ~`
 
 `man <(curl https://www.anakin-dey.com/anakin.7) `
 
