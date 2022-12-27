@@ -10,9 +10,9 @@ Hello! My name is Anakin and I'm a student studying mathematics @ UIUC. Alot of 
     * To appear at [IEEE ISC2 2022](https://attend.ieee.org/isc2-2022/)
   * Erdős Number = 5 (Me -> Melkior Ornik -> Tomáš Brázdil -> Christel Baier -> Florian Luca -> Paul Erdős)
   
-* Founder and Chair of [SIGma](https://github.com/SIGma-UIUC): the SIG for Math and Algorithms @ UIUC
-* Admin of [SIGPwny](https://sigpwny.com/): The SIG for Cybersecurity @ UIUC
-  * I've hosted some [cryptography meetings](https://sigpwny.com/presentation/)
+* Founder and Chair of [SIGma](https://www.cstheory.org/): the Special Interest Group for Math and Algorithms @ UIUC
+* Admin of [SIGPwny](https://sigpwny.com/): The Special Interest Group for Cybersecurity @ UIUC
+  * I've hosted some [cryptography](https://sigpwny.com/presentation-content/FA2022/Week_07_Crypto_I.pdf) [meetings](https://sigpwny.com/presentation-content/FA2022/Week_07_Crypto_II.pdf)
   * I've written some [CTF challenges](https://sigpwny.com/event/)
 * Course Assistant @ [CS 173](https://courses.grainger.illinois.edu/cs173/fa2021/ALL-lectures/) (FA22 - ???)
 * Course Assistant @ [CS 475](https://courses.grainger.illinois.edu/CS475/sp2022/ALL-lectures/) (SP23)
