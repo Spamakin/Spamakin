@@ -1,7 +1,8 @@
-## `cd ~`
+## `>$ cd ~`
 
 Hello! My name is Anakin and I'm a student studying mathematics @ UIUC. Alot of my time is dedicated to learning about cool things such as abstract algebra, algorithms, and cryptography. My interests in these three things really stem from just exploring how much information can be extracted from a minimal set of constraints and requirements. When I'm not working on those things, I love spending time talking about coffee and Formula 1 (please bother me about these things). 
 
+    
 #### Current
 * Research @ the [Learning, Decision, Control, Autonomy Lab](https://mornik.web.illinois.edu/research/group/)
   * "Post-Disaster Repair Crew Assignment Optimization Using Minimum Latency" by Anakin Dey & Melkior Ornik
