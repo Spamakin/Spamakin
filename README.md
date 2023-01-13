@@ -12,7 +12,7 @@ Hello! My name is Anakin and I'm a student studying mathematics @ UIUC. Alot of 
   * Erdős Number = 5 (Me -> Melkior Ornik -> Tomáš Brázdil -> Christel Baier -> Florian Luca -> Paul Erdős)
   
 * Founder / Chair of [SIGma](https://www.cstheory.org/): The Special Interest Group for Math and Algorithms
-  * Here are some of my meetings I've created:
+  * Here are some of my favorite meetings I've created:
     * [CFGs & PDAs](https://www.cstheory.org/meetings/fa22/decidability_and_recognizability/slides.pdf)
     * [Reductions](https://www.cstheory.org/meetings/fa22/reductions/slides.pdf)
 * Admin of [SIGPwny](https://sigpwny.com/): The Special Interest Group for Cybersecurity
