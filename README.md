@@ -13,7 +13,7 @@ Hello! My name is Anakin and I'm a student studying mathematics @ UIUC. Alot of 
   
 * Founder / Chair of [SIGma](https://www.cstheory.org/): The Special Interest Group for Math and Algorithms
   * Here are some of my favorite meetings I've created:
-    * [CFGs & PDAs](https://www.cstheory.org/meetings/fa22/decidability_and_recognizability/slides.pdf)
+    * [Decidability](https://www.cstheory.org/meetings/fa22/decidability_and_recognizability/slides.pdf)
     * [Binary](https://www.cstheory.org/meetings/sp23/binary/slides.pdf)
 * Admin of [SIGPwny](https://sigpwny.com/): The Special Interest Group for Cybersecurity
   * I've hosted some [cryptography](https://sigpwny.com/presentation-content/FA2022/Week_07_Crypto_I.pdf) [meetings](https://sigpwny.com/presentation-content/FA2022/Week_07_Crypto_II.pdf)
