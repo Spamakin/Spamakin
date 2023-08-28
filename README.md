@@ -11,9 +11,10 @@ When I'm not learning about those things, I love spending time talking about cof
 **Research**
 
 * [Learning, Decision, Control, Autonomy Lab](https://mornik.web.illinois.edu/research/group/)
-  * "Post-Disaster Repair Crew Assignment Optimization Using Minimum Latency" by Anakin Dey & Melkior Ornik [IEEE ISC2 2022](https://attend.ieee.org/isc2-2022/)
+  * "Post-Disaster Repair Crew Assignment Optimization Using Minimum Latency" by Anakin Dey & Melkior Ornik
     * [arXiv](https://arxiv.org/pdf/2206.00597.pdf)
     * [Source Code](https://github.com/leadcatlab/MWLP-Storm-Repair)
+    * Appeared at [IEEE ISC2 2022](https://attend.ieee.org/isc2-2022/)
   * "Optimizing a Deterministic Measure of Counterdeception via Reattachment" by Anakin Dey, Sam Ruggerio, & Melkior Ornik
     * *In Preparation*
 
