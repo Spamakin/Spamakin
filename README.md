@@ -3,7 +3,7 @@
 Hello! My name is Anakin and I'm a student studying mathematics @ UIUC.
 My interests fall in the union of abstract algebra, combinatorics, and algorithms.
 Currently my primary interests lie in algebraic combinatorics, computational group theory, and computational commutative algebra.
-When I'm not learning about those things, I love spending time talking about coffee and all things motorsport (Formula 1, WEC, IMSA, IndyCar, Formula E, NASCAR, GTWC).
+When I'm not learning about those things, I love spending time talking about coffee and motorsport (Formula 1, WEC, IMSA, IndyCar, Formula E, NASCAR, GTWC).
 
 
 ## Current
@@ -11,18 +11,18 @@ When I'm not learning about those things, I love spending time talking about cof
 **Research**
 
 * [Learning, Decision, Control, Autonomy Lab](https://mornik.web.illinois.edu/research/group/)
-  * "Post-Disaster Repair Crew Assignment Optimization Using Minimum Latency" by Anakin Dey & Melkior Ornik
+  * "Post-Disaster Repair Crew Assignment Optimization Using Minimum Latency" by Anakin Dey & Melkior Ornik [IEEE ISC2 2022](https://attend.ieee.org/isc2-2022/)
     * [arXiv](https://arxiv.org/pdf/2206.00597.pdf)
     * [Source Code](https://github.com/leadcatlab/MWLP-Storm-Repair)
-    * To appear at [IEEE ISC2 2022](https://attend.ieee.org/isc2-2022/)
   * "Optimizing a Deterministic Measure of Counterdeception via Reattachment" by Anakin Dey, Sam Ruggerio, & Melkior Ornik
     * *In Preparation*
 
 * [Texas State University](https://www.math.txst.edu/research-conferences/summerreu.html) REU in Algebra, Combinatorics, and Statistics
   * "Classifying Primitive Solvable Permutation Groups of Rank 5 and 6" by Anakin Dey, Kolton O'Neal, Duc Van Khanh Tran, Camron Upshur, & Yong Yang
-    * *In Preparation*
+    * [arXiv](https://arxiv.org/abs/2308.13043)
+    * [Source Code](https://github.com/Spamakin/Solvable-Primitive-Permutation-Groups-of-Rank-5-and-6)
 
-* Erdős Number = 5 (Me -> Melkior Ornik -> Tomáš Brázdil -> Christel Baier -> Florian Luca -> Paul Erdős)
+* Erdős Number = 4 (Me -> Yong Yang -> Christine Bessenrodt -> Antal Balog -> Paul Erdős)
 
 **Clubs**
 
@@ -36,7 +36,7 @@ When I'm not learning about those things, I love spending time talking about cof
 
 **Teaching**
 
-* Course Assistant @ [CS 173](https://courses.grainger.illinois.edu/cs173) (FA22 - ???)
+* Course Assistant @ [CS 173](https://courses.grainger.illinois.edu/cs173) (FA21 - ???)
 * Course Assistant @ [CS 374](https://courses.engr.illinois.edu/cs374/sp2022/A/) (SP22 - FA22, FA23 - ???)
 
 ## Former
