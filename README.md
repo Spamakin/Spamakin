@@ -17,7 +17,7 @@ When I'm not learning about those things, I love spending time talking about cof
     * [Source Code](https://github.com/leadcatlab/MWLP-Storm-Repair)
     * Appeared at [IEEE ISC2 2022](https://attend.ieee.org/isc2-2022/)
   * "Optimizing a Model-Agnostic Measure of Graph Counterdeceptiveness via Reattachment" by Anakin Dey, Sam Ruggerio, & Melkior Ornik
-    * *In Preparation*
+    * *Submitted*
 
 * [Texas State University](https://www.math.txst.edu/research-conferences/summerreu.html) REU in Algebra, Combinatorics, and Statistics
   * "Classifying Primitive Solvable Permutation Groups of Rank 5 and 6" by Anakin Dey, Kolton O'Neal, Duc Van Khanh Tran, Camron Upshur, & Yong Yang
