@@ -1,8 +1,9 @@
 # `> ~`
 
 Hello! My name is Anakin and I'm a student studying mathematics @ UIUC.
-My interests fall in the union of abstract algebra, combinatorics, and algorithms.
+The realm of math I enjoy most is some mixture of abstract algebra, combinatorics, and algorithms.
 Currently my primary interests lie in algebraic combinatorics, computational group theory, and computational commutative algebra.
+I am also interested in algebraic complexity theory and algebraic coding theory.
 When I'm not learning about those things, I love spending time talking about coffee and motorsport (Formula 1, WEC, IMSA, IndyCar, Formula E, NASCAR, GTWC).
 
 
@@ -15,7 +16,7 @@ When I'm not learning about those things, I love spending time talking about cof
     * [arXiv](https://arxiv.org/pdf/2206.00597.pdf)
     * [Source Code](https://github.com/leadcatlab/MWLP-Storm-Repair)
     * Appeared at [IEEE ISC2 2022](https://attend.ieee.org/isc2-2022/)
-  * "Optimizing a Deterministic Measure of Counterdeception via Reattachment" by Anakin Dey, Sam Ruggerio, & Melkior Ornik
+  * "Optimizing a Model-Agnostic Measure of Graph Counterdeceptiveness via Reattachment" by Anakin Dey, Sam Ruggerio, & Melkior Ornik
     * *In Preparation*
 
 * [Texas State University](https://www.math.txst.edu/research-conferences/summerreu.html) REU in Algebra, Combinatorics, and Statistics
@@ -29,8 +30,8 @@ When I'm not learning about those things, I love spending time talking about cof
 
 * Founder / Chair of [SIGma](https://www.cstheory.org/): The Special Interest Group for Math and Algorithms
   * Here are some of my favorite meetings I've created:
-    * [Decidability](https://www.cstheory.org/meetings/fa22/decidability_and_recognizability/slides.pdf)
     * [Binary](https://www.cstheory.org/meetings/sp23/binary/slides.pdf)
+    * [Reed-Solomon Codes](https://www.cstheory.org/meetings/fa23/reed/slides.pdf)
 * Admin of [SIGPwny](https://sigpwny.com/): The Special Interest Group for Cybersecurity
   * I've hosted some [cryptography](https://sigpwny.com/presentation-content/FA2022/Week_07_Crypto_I.pdf) [meetings](https://sigpwny.com/presentation-content/FA2022/Week_07_Crypto_II.pdf)
   * I've written some [CTF challenges](https://sigpwny.com/events/)
