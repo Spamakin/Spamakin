@@ -18,12 +18,14 @@ When I'm not learning about those things, I love spending time talking about cof
     * Appeared at [IEEE ISC2 2022](https://attend.ieee.org/isc2-2022/)
   * "Optimizing a Model-Agnostic Measure of Graph Counterdeceptiveness via Reattachment" by Anakin Dey, Sam Ruggerio, & Melkior Ornik
     * [arXiv](https://arxiv.org/pdf/2311.15093.pdf)
+    * [Source Code](https://github.com/leadcatlab/counterdeception)
     * *Submitted*
 
 * [Texas State University](https://www.math.txst.edu/research-conferences/summerreu.html) REU in Algebra, Combinatorics, and Statistics
   * "Classifying Primitive Solvable Permutation Groups of Rank 5 and 6" by Anakin Dey, Kolton O'Neal, Duc Van Khanh Tran, Camron Upshur, & Yong Yang
     * [arXiv](https://arxiv.org/abs/2308.13043)
     * [Source Code](https://github.com/Spamakin/Solvable-Primitive-Permutation-Groups-of-Rank-5-and-6)
+    * *Submitted*
 
 * Erdős Number = 4 (Me -> Yong Yang -> Christine Bessenrodt -> Antal Balog -> Paul Erdős)
 
