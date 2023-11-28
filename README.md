@@ -17,6 +17,7 @@ When I'm not learning about those things, I love spending time talking about cof
     * [Source Code](https://github.com/leadcatlab/MWLP-Storm-Repair)
     * Appeared at [IEEE ISC2 2022](https://attend.ieee.org/isc2-2022/)
   * "Optimizing a Model-Agnostic Measure of Graph Counterdeceptiveness via Reattachment" by Anakin Dey, Sam Ruggerio, & Melkior Ornik
+    * [arXiv](https://arxiv.org/pdf/2311.15093.pdf)
     * *Submitted*
 
 * [Texas State University](https://www.math.txst.edu/research-conferences/summerreu.html) REU in Algebra, Combinatorics, and Statistics
