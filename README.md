@@ -6,11 +6,12 @@ Currently my primary interests lie in algebraic combinatorics, computational gro
 I am also interested in algebraic complexity theory, algebraic coding theory, and representation theory.
 When I'm not learning about those things, I love spending time talking about coffee and motorsport (F1, WEC, IMSA, IndyCar, FE, GTWC, 24H Series).
 
+
 ## Current
 
 **Research**
 
-* [Illinois Combinatorics Lab for Undergraduate Experiences](https://ayong.web.illinois.edu/ICLUE.html)
+* [Illinois Combinatorics Lab for Undergraduate Experiences](https://ayong.web.illinois.edu/ICLUE.html) (SP24)
 
 * Erdős Number = 4 (Me -> Yong Yang -> Christine Bessenrodt -> Antal Balog -> Paul Erdős)
 
@@ -33,7 +34,7 @@ When I'm not learning about those things, I love spending time talking about cof
 
 **Research**
 
-* [Learning, Decision, Control, Autonomy Lab](https://mornik.web.illinois.edu/research/group/)
+* [Learning, Decision, Control, Autonomy Lab](https://mornik.web.illinois.edu/research/group/) (FA21-FA23)
   * "Post-Disaster Repair Crew Assignment Optimization Using Minimum Latency" by Anakin Dey & Melkior Ornik
     * [arXiv](https://arxiv.org/pdf/2206.00597.pdf)
     * [Source Code](https://github.com/leadcatlab/MWLP-Storm-Repair)
@@ -43,7 +44,7 @@ When I'm not learning about those things, I love spending time talking about cof
     * [Source Code](https://github.com/leadcatlab/counterdeception)
     * *Submitted*
 
-* [Texas State University](https://www.math.txst.edu/research-conferences/summerreu.html) REU in Algebra, Combinatorics, and Statistics
+* [Texas State University](https://www.math.txst.edu/research-conferences/summerreu.html) REU in Algebra, Combinatorics, and Statistics (SU23)
   * "Classifying Primitive Solvable Permutation Groups of Rank 5 and 6" by Anakin Dey, Kolton O'Neal, Duc Van Khanh Tran, Camron Upshur, & Yong Yang
     * [arXiv](https://arxiv.org/abs/2308.13043)
     * [Source Code](https://github.com/Spamakin/Solvable-Primitive-Permutation-Groups-of-Rank-5-and-6)
@@ -52,7 +53,7 @@ When I'm not learning about those things, I love spending time talking about cof
 **Internships**
 
 * Software Engineering Intern @ [CME Group](https://www.cmegroup.com/) (SU22)
-* Software Engineering Intern @ [Site IQ](http://www.site-iq.com/) (SU22)
+* Software Engineering Intern @ [Site IQ](http://www.site-iq.com/) (SU21)
 
 **Teaching**
 
