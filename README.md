@@ -48,7 +48,7 @@ When I'm not learning about those things, I love spending time talking about cof
   * "Classifying Primitive Solvable Permutation Groups of Rank 5 and 6" by Anakin Dey, Kolton O'Neal, Duc Van Khanh Tran, Camron Upshur, & Yong Yang
     * [arXiv](https://arxiv.org/abs/2308.13043)
     * [Source Code](https://github.com/Spamakin/Solvable-Primitive-Permutation-Groups-of-Rank-5-and-6)
-    * *Submitted*
+    * *Accepted* Journal of Group Theory
 
 **Internships**
 
